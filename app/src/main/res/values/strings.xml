@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">PamLab5</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="pozycja_menu_1">pozycja menu 1</string>
+    <string name="pozycja_menu_2">pozycja menu 2</string>
+    <string name="po_nacisnieciu_settings">po nacisnieciu settings</string>
+    <string name="po_nacisnieciu_pozycja_1">po nacisnieciu pozycja 1</string>
+    <string name="po_nacisnieciu_pozycja_2">po nacisnieciu pozycja 2</string>
+    <string name="fragment_2">Fragment 2</string>
+    <string name="fragment_3">Fragment 3</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
